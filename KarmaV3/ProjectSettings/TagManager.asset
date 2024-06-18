@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ConsoleControle2D
+  - ConsoleControlePart1
+  - ConsoleControlePart2
+  - ConsoleControlePart3
+  - Gabinete2D
+  - GabinetePart1
+  - GabinetePart2
+  - GabinetePart3
+  - Mesa2D
+  - MesaPart1
+  - MesaPart2
+  - MesaPart3
+  - Pacote1AR
+  - Pacote2AR
+  - Pacote3AR
+  - ConsoleControlePart4
+  - ConsoleControlePart5
+  - ConsoleControlePart6
+  - GabinetePart4
+  - GabinetePart5
+  - GabinetePart6
+  - Level2D
+  - LevelPart1
+  - LevelPart2
+  - LevelPart3
+  - LevelPart4
+  - LevelPart5
+  - LevelPart6
+  - MesaPart4
+  - MesaPart5
+  - MesaPart6
+  - AudioManager
+  - fala
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
